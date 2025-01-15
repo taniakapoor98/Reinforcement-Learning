@@ -29,6 +29,7 @@ Training: The model is trained for 10000 steps using: model.learn(total_timestep
 ![image](https://github.com/user-attachments/assets/e0aa8b9c-0403-4cfc-b036-dcbeeadbd565)
 
 Result: Agent successfully beats idle player.
+
 ![stg1](https://github.com/user-attachments/assets/9f78b0d4-17cd-4f30-9294-40719ca79425)
 
 
