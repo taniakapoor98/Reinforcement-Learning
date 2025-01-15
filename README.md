@@ -32,9 +32,19 @@ Result: Agent successfully beats idle player.
 
 ![stg1](https://github.com/user-attachments/assets/9f78b0d4-17cd-4f30-9294-40719ca79425)
 
+### Stage 2: Beating Built-in Random Player
+Model Setup: PPO is initialized with the multi-layer perceptron policy. 
+Result: Agent successfully beats random player.
+
+[![Video Title](https://img.youtube.com/vi/XDZdzxvrwpk/maxresdefault.jpg)](https://www.youtube.com/watch?v=XDZdzxvrwpk)
 
 
+### Stage 3: Training Player 2 to beat newly trained player (left)
+PPO vs. DQN+LSTM
+[![Video Title](https://img.youtube.com/vi/TMrsslxTBf4/maxresdefault.jpg)](https://www.youtube.com/watch?v=TMrsslxTBf4)
 
+PPO vs. PPO+LSTM
+[![Video Title](https://img.youtube.com/vi/RqD82W65KiA/maxresdefault.jpg)](https://www.youtube.com/watch?v=RqD82W65KiA)
 
 
 
