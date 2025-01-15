@@ -46,5 +46,13 @@ PPO vs. DQN+LSTM
 PPO vs. PPO+LSTM
 [![Video Title](https://img.youtube.com/vi/RqD82W65KiA/maxresdefault.jpg)](https://www.youtube.com/watch?v=RqD82W65KiA)
 
+## Key Insights from the Street Fighter Reinforcement Learning Project
 
+- **PPO** is very well suited for dynamic environments like Street Fighter.
+- All trained agents were able to outperform a random player.
+- **DQN** seems more suited for scenarios where a particular task needs to be solved.
+- **Curriculum learning** improved performance significantly.
+- **Reward engineering** plays a crucial role in guiding agent behavior.
+- Agents lacked human-like unpredictability, which could be a limitation in competitive scenarios.
+- Challenges in **multi-agent training** still persist and require further exploration.
 
